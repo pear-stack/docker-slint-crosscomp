@@ -1,3 +1,4 @@
+Docker image to cross-compile slint application for raspberry pi:
 1. Build docker image:
    
    ```
